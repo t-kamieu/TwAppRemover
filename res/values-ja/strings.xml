@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">TwAppRemover</string>
+	<string name="action_settings">Settings</string>
+	<string name="dummy_text">dummy text</string>
+
+	<string name="activity_main_formhint_id">メールアドレスまたはユーザー名</string>
+	<string name="activity_main_formhint_pass">パスワード</string>
+	<string name="activity_main_button_submit">確認</string>
+	<string name="activity_main_dlgtitle_loading">読み込み中</string>
+	<string name="activity_main_dlgmsg_loading">ツイッター連携アプリのデータを読み込んでいます</string>
+	<string name="activity_main_dlgbtn_revoke_conf">はい</string>
+	<string name="activity_main_dlgbtn_revoke_cancel">いいえ</string>
+	<string name="activity_main_dlgtitle_revoke">連携アプリの解除</string>
+	<string name="activity_main_dlgmsg_revoke">連携アプリ [%1$s] を解除しますか</string>
+	<string name="activity_main_dlgtitle_loginfail">ログイン失敗</string>
+	<string name="activity_main_dlgmsg_loginfail">ログインできませんでした\nやり直してください</string>
+	<string name="activity_main_dlgbtn_loginfail">確認</string>
+	<string name="activity_main_menu_license">オープンソースライセンス</string>
+	<string name="activity_main_dlgtitle_oss">オープンソースライセンス情報</string>
+	<string name="activity_main_dlgbtn_oss">とじる</string>
+</resources>

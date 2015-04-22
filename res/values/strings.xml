@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">TwAppRemover</string>
+	<string name="action_settings">Settings</string>
+	<string name="dummy_text">dummy text</string>
+
+	<string name="activity_main_formhint_id">Username or email</string>
+	<string name="activity_main_formhint_pass">Password</string>
+	<string name="activity_main_button_submit">check</string>
+	<string name="activity_main_dlgtitle_loading">Loading</string>
+	<string name="activity_main_dlgmsg_loading">now loading your twitter linked application.</string>
+	<string name="activity_main_dlgbtn_cancel">Cancel</string>
+	<string name="activity_main_dlgbtn_revoke_conf">Yes</string>
+	<string name="activity_main_dlgbtn_revoke_cancel">No</string>
+	<string name="activity_main_dlgtitle_revoke">Revoke access</string>
+	<string name="activity_main_dlgmsg_revoke">Are you sure you want to revoke [%1$s] ?</string>
+	<string name="activity_main_dlgtitle_loginfail">Failure</string>
+	<string name="activity_main_dlgmsg_loginfail">log in failure. try again.</string>
+	<string name="activity_main_dlgbtn_loginfail">OK</string>
+	<string name="activity_main_menu_license">OSS License</string>
+	<string name="activity_main_dlgtitle_oss">OSS License</string>
+	<string name="activity_main_dlgbtn_oss">Close</string>
+
+</resources>
